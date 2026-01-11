@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #000;       /* Black background */
+  color: #d4af37;               /* Gold text */
+}
+
+header {
+  background-color: #000;
+  border-bottom: 2px solid #d4af37;
+  padding: 15px;
+}
+
+nav a {
+  color: #d4af37;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: white;
+}
+
+.section {
+  padding: 40px;
+  text-align: center;
+}
+
+footer {
+  border-top: 2px solid #d4af37;
+  text-align: center;
+  padding: 15px;
+}
